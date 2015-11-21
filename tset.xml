@@ -1,0 +1,9 @@
+<config>
+<plugins>timeslidertooltipplugin-3</plugins>
+<provider>http</provider>
+<logo.file>http://images.thisav.com/images/video_logo.png</logo.file>
+<logo.position>top-right</logo.position>
+<controlbar>over</controlbar>
+<logo.hide>flase</logo.hide>
+<stretching>exactfit</stretching>
+</config>
